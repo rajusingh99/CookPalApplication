@@ -2,7 +2,7 @@
 const recipes= [
     {
         "name": "Veggie Delight",
-        "imageSrc": "https://source.unsplash.com/random?veggies",
+        "imageSrc": "https://img-global.cpcdn.com/recipes/2f8496835725af3d/680x482cq70/veggies-delight-pizza-recipe-main-photo.webp",
         "time": "30 min",
         "type": "veg",
         "isLiked": false,
@@ -10,7 +10,7 @@ const recipes= [
     },
     {
         "name": "Chicken Grill",
-        "imageSrc": "https://source.unsplash.com/random?chicken",
+        "imageSrc": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/4._grilled_chicken_with_spicy_guacamole_and_corn_chips-58e1f87.jpg?quality=90&resize=556,505",
         "time": "45 min",
         "type": "non-veg",
         "isLiked": false,
@@ -18,7 +18,7 @@ const recipes= [
     },
     {
         "name": "Cheese Pizza",
-        "imageSrc": "https://source.unsplash.com/random?pizza",
+        "imageSrc": "https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg",
         "time": "40 min",
         "type": "veg",
         "isLiked": false,
@@ -26,7 +26,7 @@ const recipes= [
     },
     {
         "name": "Steak",
-        "imageSrc": "https://source.unsplash.com/random?steak",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcs4VafdtaEK83REdzR7iEYItuDxxgiZUiZw&s",
         "time": "60 min",
         "type": "non-veg",
         "isLiked": false,
@@ -34,7 +34,7 @@ const recipes= [
     },
     {
         "name": "Grilled Salmon",
-        "imageSrc": "https://source.unsplash.com/random?salmon",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUqm-KYsC8wxgoivNEC2drQKwgUHFQcb46w&s",
         "time": "50 min",
         "type": "non-veg",
         "isLiked": false,
@@ -42,7 +42,7 @@ const recipes= [
     },
     {
         "name": "Tomato Pasta",
-        "imageSrc": "https://source.unsplash.com/random?pasta",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlX1HpzvH7O-7XLup00vpGisbKKy7WyOs89w&s",
         "time": "35 min",
         "type": "veg",
         "isLiked": false,
@@ -50,7 +50,7 @@ const recipes= [
     },
     {
         "name": "Vegan Salad",
-        "imageSrc": "https://source.unsplash.com/random?salad",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hdBJ0-iBfFnxh82o3VfybcjB-fTqS11KQg&s",
         "time": "20 min",
         "type": "veg",
         "isLiked": false,
@@ -58,7 +58,7 @@ const recipes= [
     },
     {
         "name": "Fried Chicken",
-        "imageSrc": "https://source.unsplash.com/random?friedChicken",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazWO2qGAx5W1pJMXgVaE3mDIvwjT3xDTNYg&s",
         "time": "55 min",
         "type": "non-veg",
         "isLiked": false,
@@ -66,7 +66,7 @@ const recipes= [
     },
     {
         "name": "Mushroom Risotto",
-        "imageSrc": "https://source.unsplash.com/random?risotto",
+        "imageSrc": "https://www.lilvienna.com/wp-content/uploads/Recipe-easy-mushroom-risotto.jpg",
         "time": "45 min",
         "type": "veg",
         "isLiked": false,
@@ -74,7 +74,7 @@ const recipes= [
     },
     {
         "name": "Burger",
-        "imageSrc": "https://source.unsplash.com/random?burger",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-KgP0qvEhL-4ibHAq8rKJvJC-3O_5TCJ7Q&s",
         "time": "30 min",
         "type": "non-veg",
         "isLiked": false,
@@ -82,7 +82,7 @@ const recipes= [
     },
     {
         "name": "Paneer Tikka",
-        "imageSrc": "https://source.unsplash.com/random?paneerTikka",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQef919EBMAOyD24MVc0diS7e2zAz6tGJDRNw&s",
         "time": "40 min",
         "type": "veg",
         "isLiked": false,
@@ -90,7 +90,7 @@ const recipes= [
     },
     {
         "name": "BBQ Ribs",
-        "imageSrc": "https://source.unsplash.com/random?ribs",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5oPjuLD94jwOIBHlgRLrPUwzNV9AnoekQA&s",
         "time": "70 min",
         "type": "non-veg",
         "isLiked": false,
@@ -98,7 +98,7 @@ const recipes= [
     },
     {
         "name": "Caesar Salad",
-        "imageSrc": "https://source.unsplash.com/random?caesarSalad",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-eknTr6-IvHWzzqDxgaC7olDTgKkY8Y0qQ&s",
         "time": "25 min",
         "type": "veg",
         "isLiked": false,
@@ -106,7 +106,7 @@ const recipes= [
     },
     {
         "name": "Fish Tacos",
-        "imageSrc": "https://source.unsplash.com/random?fishTacos",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj6u2iBO1_N-FqNsChuXsNC7NEA-Bt6zEyQA&s",
         "time": "35 min",
         "type": "non-veg",
         "isLiked": false,
@@ -114,7 +114,7 @@ const recipes= [
     },
     {
         "name": "Chocolate Cake",
-        "imageSrc": "https://source.unsplash.com/random?chocolateCake",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JtuhZfwGP3NtJhVxYRjJrvccWFUEBR1WfA&s",
         "time": "90 min",
         "type": "veg",
         "isLiked": false,
